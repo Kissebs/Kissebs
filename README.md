@@ -1,5 +1,5 @@
 ### Hi there 👋
-Im System Enginner student 
+I'm a student system engineering
 <!--
 **Kissebs/Kissebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
