@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Systems Engineering student passionate about C++ programming. With 2 years of experience, I have worked on various projects that have strengthened my technical skills and my ability to efficiently solve problems. ⚙️🧑‍💻
+I am a Systems Engineering student passionate about C++ and Java programming. With 3 years of experience, I have worked on various projects that have strengthened my technical skills and my ability to efficiently solve problems. ⚙️🧑‍💻
 <!--
 **Kissebs/Kissebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
